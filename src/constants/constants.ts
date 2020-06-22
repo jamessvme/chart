@@ -1,0 +1,7 @@
+export enum EActionType {
+	SIGNIN = 'SIGNIN',
+	SIGNUP = 'SIGNUP',
+	SIGNOUT = 'SIGNOUT',
+	AUTH_SUCCESS = 'AUTH_SUCCESS',
+	AUTH_FAILED = 'AUTH_FAILED'
+}
